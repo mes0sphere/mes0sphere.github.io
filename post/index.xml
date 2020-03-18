@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meine neue Webseite</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Meine neue Webseite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2020 23:13:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genesis</title>
+      <link>http://example.org/post/2020/03/16-genesis/</link>
+      <pubDate>Mon, 16 Mar 2020 23:13:08 +0100</pubDate>
+      
+      <guid>http://example.org/post/2020/03/16-genesis/</guid>
+      <description>Meine Überschrift Subtitle Hier kommt mein Text.
+ Punkt-01 Punkt-02 Punkt-03   erster Punkt dritter Punkt zweiter Punkte  Link zu meine Artikel
+Schreibe hugo new post/mein_post.md in den Editor
+ Sein oder nicht sein
+ mehrere Zeilen Zitat  </description>
+    </item>
+    
+  </channel>
+</rss>
